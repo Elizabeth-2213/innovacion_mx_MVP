@@ -53,9 +53,8 @@ innovacion_mx/
 
 ## Cuentas de demostración
 
-Todas las cuentas usan la contraseña **`1234`**:
+Cuentas precargadas para probar rápido (todas con contraseña "1234")::
 
-# Cuentas precargadas para probar rápido (todas con contraseña "1234"):
 - empresa1@innovacionmx.com (Empresa — Recicladora del Bajío)
 - empresa2@innovacionmx.com (Empresa — Acero Industrial León)
 - transportista1@innovacionmx.com (Transportista — Juan Pérez)
